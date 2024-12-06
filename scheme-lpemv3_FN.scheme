@@ -5,8 +5,8 @@
 // the Institute for Economics and Social Research (LPEM), Universitas Indonesia's main color 
 // palettes. 
 
-// AUTHOR		  : Sean Hambali || Fitawhidan Nashuha
-// VERSION CONTROL: V.0.2 - Last updated on 06 December 2024
+// AUTHOR		  : Sean Hambali
+// VERSION CONTROL: V.0.1 - Last updated on 16 July 2021
 
 #include cleanplots
 
@@ -245,11 +245,11 @@ color mat_label_box 		gs15
 
 * Default for all other non-specified objects
 * NOTE: CIs in marginsplot is based on this
-color p1					"255 231 51"
-color p2 					"138 158 168"
-color p3 					"45 49 66"
-color p4 					"240 247 238"
-color p5 					"135 187 162"
+color p1					"255 206 36"
+color p2 					"206 205 205"
+color p3 					"95 88 90"
+color p4 					"xxx"
+color p5 					"255 196 137"
 color p6 					"226 227 191"
 color p7 					"221 167 79"
 color p8 					"167 107 9"
@@ -260,11 +260,11 @@ color p12 					"38 118 173"
 color p13 					"255 102 102"
 
 * Default for lines (matching the symbols)
-color p1line			  "255 231 51"
-color p2line			  "138 158 168"
-color p3line		  	"45 49 66"
-color p4line	  		"240 247 238"
-color p5line  			"135 187 162"
+color p1line				"255 206 36"
+color p2line				"206 205 205"
+color p3line				"95 88 90"
+color p4line				"xxx"
+color p5line				"255 196 137"
 color p6line				"226 227 191"
 color p7line				"221 167 79"
 color p8line				"167 107 9"
@@ -274,11 +274,11 @@ color p11line				"255 142 30"
 color p12line				"38 118 173"
 color p13line				"255 102 102"
 
-color p1lineplot			"255 231 51"
-color p2lineplot			"138 158 168"
-color p3lineplot			"45 49 66"
-color p4lineplot			"240 247 238"
-color p5lineplot			"135 187 162"
+color p1lineplot			"255 206 36"
+color p2lineplot			"206 205 205"
+color p3lineplot			"95 88 90"
+color p4lineplot			"xxx"
+color p5lineplot			"255 196 137"
 color p6lineplot			"226 227 191"
 color p7lineplot			"221 167 79"
 color p8lineplot			"167 107 9"
@@ -288,11 +288,11 @@ color p11lineplot			"255 142 30"
 color p12lineplot			"38 118 173"
 color p13lineplot			"255 102 102"
 
-color p1markline			"255 231 51"
-color p2markline			"138 158 168"
-color p3markline			"45 49 66"
-color p4markline			"240 247 238"
-color p5markline			"135 187 162"
+color p1markline			"255 206 36"
+color p2markline			"206 205 205"
+color p3markline			"95 88 90"
+color p4markline			"xxx"
+color p5markline			"255 196 137"
 color p6markline			"226 227 191"
 color p7markline			"221 167 79"
 color p8markline			"167 107 9"
@@ -303,11 +303,11 @@ color p12markline			"38 118 173"
 color p13markline			"255 102 102"
 
 * Bar charts
-color p1bar					"255 231 51"
-color p2bar					"138 158 168"
-color p3bar					"45 49 66"
-color p4bar					"240 247 238"
-color p5bar					"135 187 162"
+color p1bar					"255 206 36"
+color p2bar					"206 205 205"
+color p3bar					"95 88 90"
+color p4bar					"xxx"
+color p5bar					"255 196 137"
 color p6bar					"226 227 191"
 color p7bar					"221 167 79"
 color p8bar					"167 107 9"
@@ -322,11 +322,11 @@ color parea					gs13
 color parealine				gs13
 
 * Area plots
-color p1area				"255 231 51"
-color p2area				"138 158 168"
-color p3area				"45 49 66"
-color p4area				"240 247 238"
-color p5area				"135 187 162"
+color p1area				"255 206 36"
+color p2area				"206 205 205"
+color p3area				"95 88 90"
+color p4area				"xxx"
+color p5area				"255 196 137"
 color p6area				"226 227 191"
 color p7area				"221 167 79"
 color p8area				"167 107 9"
@@ -336,11 +336,11 @@ color p11area				"255 142 30"
 color p12area				"38 118 173"
 color p13area				"255 102 102"
 
-color p1arealine				"255 231 51"
-color p2arealine				"138 158 168"
-color p3arealine				"45 49 66"
-color p4arealine				"240 247 238"
-color p5arealine				"135 187 162"
+color p1arealine				"255 206 36"
+color p2arealine				"206 205 205"
+color p3arealine				"95 88 90"
+color p4arealine				"xxx"
+color p5arealine				"255 196 137"
 color p6arealine				"226 227 191"
 color p7arealine				"221 167 79"
 color p8arealine				"167 107 9"
@@ -352,11 +352,11 @@ color p13arealine				"255 102 102"
 
 
 * Pie slices
-color p1pie				"255 231 51"
-color p2pie				"138 158 168"
-color p3pie				"45 49 66"
-color p4pie				"240 247 238"
-color p5pie				"135 187 162"
+color p1pie				"255 206 36"
+color p2pie				"206 205 205"
+color p3pie				"95 88 90"
+color p4pie				"xxx"
+color p5pie				"255 196 137"
 color p6pie				"226 227 191"
 color p7pie				"221 167 79"
 color p8pie				"167 107 9"
